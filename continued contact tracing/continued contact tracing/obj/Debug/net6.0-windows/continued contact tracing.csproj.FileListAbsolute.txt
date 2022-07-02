@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\bin\Debug\net6.0-windows\continued contact tracing.exe
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\bin\Debug\net6.0-windows\continued contact tracing.deps.json
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\bin\Debug\net6.0-windows\continued contact tracing.runtimeconfig.json
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\bin\Debug\net6.0-windows\continued contact tracing.dll
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\bin\Debug\net6.0-windows\continued contact tracing.pdb
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\continued contact tracing.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\continued_contact_tracing.Form1.resources
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\continued contact tracing.csproj.GenerateResource.cache
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\continued contact tracing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\continued contact tracing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\continued contact tracing.AssemblyInfo.cs
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\continued contact tracing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\continued contact tracing.dll
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\refint\continued contact tracing.dll
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\continued contact tracing.pdb
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\continued contact tracing.genruntimeconfig.cache
+C:\Users\User\source\repos\continued contact tracing\continued contact tracing\obj\Debug\net6.0-windows\ref\continued contact tracing.dll

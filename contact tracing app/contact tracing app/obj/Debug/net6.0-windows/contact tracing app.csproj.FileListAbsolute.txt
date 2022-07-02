@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\contact tracing app\contact tracing app\obj\Debug\net6.0-windows\contact tracing app.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\contact tracing app\contact tracing app\obj\Debug\net6.0-windows\continued_contact_tracing.Form1.resources
+C:\Users\User\source\repos\contact tracing app\contact tracing app\obj\Debug\net6.0-windows\contact tracing app.csproj.GenerateResource.cache
+C:\Users\User\source\repos\contact tracing app\contact tracing app\obj\Debug\net6.0-windows\contact tracing app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\contact tracing app\contact tracing app\obj\Debug\net6.0-windows\contact tracing app.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\contact tracing app\contact tracing app\obj\Debug\net6.0-windows\contact tracing app.AssemblyInfo.cs
+C:\Users\User\source\repos\contact tracing app\contact tracing app\obj\Debug\net6.0-windows\contact tracing app.csproj.CoreCompileInputs.cache
